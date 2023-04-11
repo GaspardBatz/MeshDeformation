@@ -1,0 +1,11 @@
+C:/Users/gasba/Travail/Informatique/INF574/TD1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/gasba/Travail/Informatique/INF574/TD1/out/build/x64-Debug/CMakeFiles/example_bin.dir
+C:/Users/gasba/Travail/Informatique/INF574/TD1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/gasba/Travail/Informatique/INF574/TD1/out/build/x64-Debug/glad/CMakeFiles/glad.dir
+C:/Users/gasba/Travail/Informatique/INF574/TD1/out/build/x64-Debug/glad/CMakeFiles/edit_cache.dir
+C:/Users/gasba/Travail/Informatique/INF574/TD1/out/build/x64-Debug/glad/CMakeFiles/rebuild_cache.dir
+C:/Users/gasba/Travail/Informatique/INF574/TD1/out/build/x64-Debug/glfw/CMakeFiles/edit_cache.dir
+C:/Users/gasba/Travail/Informatique/INF574/TD1/out/build/x64-Debug/glfw/CMakeFiles/rebuild_cache.dir
+C:/Users/gasba/Travail/Informatique/INF574/TD1/out/build/x64-Debug/glfw/src/CMakeFiles/rebuild_cache.dir
+C:/Users/gasba/Travail/Informatique/INF574/TD1/out/build/x64-Debug/glfw/src/CMakeFiles/glfw.dir
+C:/Users/gasba/Travail/Informatique/INF574/TD1/out/build/x64-Debug/glfw/src/CMakeFiles/edit_cache.dir
